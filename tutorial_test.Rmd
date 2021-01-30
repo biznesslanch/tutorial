@@ -2,9 +2,7 @@
 title: "Tutorial_test"
 author: "Tom Wonder"
 date: "1/30/2021"
-output: 
-  html_document:
-    keep_md: TRUE
+output: "github_document"
 ---
 
 ```{r setup, include=FALSE}
